@@ -1,0 +1,14 @@
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP group default qlen 1000
+    link/ether d4:3d:7e:4f:07:70 brd ff:ff:ff:ff:ff:ff
+    inet 10.0.0.226/24 brd 10.0.0.255 scope global dynamic enp3s0
+       valid_lft 516333sec preferred_lft 516333sec
+    inet6 2601:ce:4000:db74:f0a8:b415:344d:3b6/64 scope global temporary dynamic 
+       valid_lft 171368sec preferred_lft 84187sec
+    inet6 2601:ce:4000:db74::c69c/128 scope global dynamic 
+       valid_lft 516335sec preferred_lft 516335sec
+    inet6 2601:ce:4000:db74:8890:2f70:6042:98fa/64 scope global temporary deprecated dynamic 
+       valid_lft 171368sec preferred_lft 0sec
+    inet6 2601:ce:4000:db74:4cfd:19b3:89c6:d0c5/64 scope global mngtmpaddr noprefixroute dynamic 
+       valid_lft 171368sec preferred_lft 171368sec
+    inet6 fe80::9f51:1ad9:ac28:e5fd/64 scope link 
+       valid_lft forever preferred_lft forever
